@@ -18,7 +18,8 @@ background-repeat:no-repeat;}
 <font color="#37FDFF" face="Verdana" size="4">
         copyright SooChow
 </font><br>
-<font color="#FF0000" face="微軟正黑體" size="4">
+<br>
+<font color="#FF0000" face="微軟正黑體" size="6">
         資料新增成功
 </font>
 </body>
